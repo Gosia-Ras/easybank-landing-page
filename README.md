@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/Gosia-Ras/easybank-landing-page/refs/heads/main/assets/Screenshot%202025-05-12%20163954.png)
 
 ### Links
 
